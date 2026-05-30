@@ -50,6 +50,14 @@ A hardware implementation of an 8-to-1 Multiplexer using digital logic ICs, swit
 - Truth table verification
 - Documentation preparation
 
+##  Project Images
+
+### Circuit Diagram
+74LS151 Multiplexer IC circuit implementation.
+
+### Output Verification
+Hardware testing and output verification using LEDs and switch inputs.
+
 ##  Developed and Implemented By
 Mahin Khokhar
 B.Tech in Electronics and Communication Engineering (ECE)
